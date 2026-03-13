@@ -25,6 +25,8 @@ final class BuilderTest extends TestCase
 
         Config::set('short-url.default_url', 'https://short-url.com');
         Config::set('app.url', 'https://app-url.com');
+
+        $this->freezeSecond();
     }
 
     #[Test]
