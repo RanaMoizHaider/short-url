@@ -4,6 +4,7 @@
 
 - Added support for Laravel 13. [#324](https://github.com/ash-jc-allen/short-url/pull/324)
 - Dropped support for PHP 8.1. [#325](https://github.com/ash-jc-allen/short-url/pull/325)
+- Run CI workflows with PHP 8.5. [#322](https://github.com/ash-jc-allen/short-url/pull/322)
 
 **v8.4.1 (released 2025-10-17):**
 
