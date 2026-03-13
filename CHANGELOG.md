@@ -1,5 +1,10 @@
 # Changelog
 
+**v8.5.0 (released 2026-03-13):**
+
+- Added support for Laravel 13. [#324](https://github.com/ash-jc-allen/short-url/pull/324)
+- Dropped support for PHP 8.1. [#325](https://github.com/ash-jc-allen/short-url/pull/325)
+
 **v8.4.1 (released 2025-10-17):**
 
 - Updated `.gitattributes` file to include correct files. [#321](https://github.com/ash-jc-allen/short-url/pull/321)
